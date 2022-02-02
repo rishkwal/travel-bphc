@@ -1,0 +1,14 @@
+.travel-card {
+  background-color: rgb(84, 32, 195);
+  border: 1px solid white;
+  border-radius: 10px;
+  margin: 10px;
+  width: 300px;
+}
+.travel-information {
+  margin-left: 10px;
+}
+.delete {
+  cursor: pointer;
+  color: maroon;
+}

@@ -1,0 +1,45 @@
+.search-add-form{
+    width:100%;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    height:300px;
+    justify-content: space-around;
+    border-radius: 15px;
+  }
+  button{
+    height:30px;
+    font-weight: bold;
+    font-size: large;
+    width: 150px;
+    color: whitesmoke;
+    background-color: rgb(84, 32, 195) ;
+    margin: 10px 10px 0 10px;
+    padding: 5px 0 5px 0;
+    border-radius: 10px;
+    box-shadow: 0 5px 12px black;
+    border: none;
+  }
+  button:active{
+    transform: translateY(5px);
+  }
+  .form-input{
+    border-radius: 10px;
+    padding: 5px 0 5px 0;
+    border: 1px solid whitesmoke;
+    color:whitesmoke;
+    text-align: center;
+    width: 300px;
+    padding: 7px 0 7px 0;
+    margin: 20px;
+    background-color: rgb(84, 32, 195) ;
+  }
+  .form-select{
+    margin-bottom:10px;
+    width:250px;
+    height:30px;
+    background-color: rgb(84, 32, 195) ; 
+    color:whitesmoke;
+    border: whitesmoke;
+  }
+  
